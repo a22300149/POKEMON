@@ -182,7 +182,7 @@
             "candy": "Charmander Candy",
             "candy_count": 25,
             "spawn_chance": 0.253,
-            "avg_spawns": 25.3,
+            "avg_spawns": 25,
             "spawn_time": "08:45",
             "multipliers": [
                 1.65
@@ -308,7 +308,7 @@
             "candy": "Caterpie Candy",
             "candy_count": 12,
             "spawn_chance": 3.032,
-            "avg_spawns": 303.2,
+            "avg_spawns": 303,
             "spawn_time": "16:35",
             "multipliers": [
                 1.05
@@ -372,7 +372,7 @@
             "candy": "Butterfree Candy",
             "candy_count": 50,
             "spawn_chance": 0.022,
-            "avg_spawns": 2.2,
+            "avg_spawns": 2,
             "spawn_time": "05:23",
             "multipliers": [
                 1.05
@@ -438,7 +438,7 @@
             "candy": "Pidgey Candy",
             "candy_count": 12,
             "spawn_chance": 15.98,
-            "avg_spawns": 1.598,
+            "avg_spawns": 1,
             "spawn_time": "01:34",
             "multipliers": [
                 1.71
@@ -499,7 +499,7 @@
             "candy": "Rattata Candy",
             "candy_count": 25,
             "spawn_chance": 13.05,
-            "avg_spawns": 1.305,
+            "avg_spawns": 1,
             "spawn_time": "01:55",
             "multipliers": [
                 2.55
